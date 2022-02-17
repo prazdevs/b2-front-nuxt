@@ -101,6 +101,11 @@ export default {
           icon: 'mdi-apps',
           title: 'Welcome',
           to: '/'
+        },
+        {
+          icon: 'mdi-post',
+          title: '¨Posts',
+          to: '/posts'
         }
       ],
       miniVariant: false,
